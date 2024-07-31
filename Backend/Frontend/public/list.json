@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "lorem ipsum dolor sit amet consf sfgsggd sgsdgsd.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://imgs.search.brave.com/OXeiBG5poAlHQ0hZ8JRa3-uQFDB2BQT0jQE5utJITJQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nZXR3/YWxscGFwZXJzLmNv/bS93YWxscGFwZXIv/ZnVsbC84L2EvZC8y/MTc1Ni5qcGc"
+    },{
+        "id": 2,
+        "name": "Story Book",
+        "title": "lorem ipsum dolor sit amet consf sfgsggd sgsdgsd.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://imgs.search.brave.com/OXeiBG5poAlHQ0hZ8JRa3-uQFDB2BQT0jQE5utJITJQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nZXR3/YWxscGFwZXJzLmNv/bS93YWxscGFwZXIv/ZnVsbC84L2EvZC8y/MTc1Ni5qcGc"
+    },{
+        "id": 3,
+        "name": "Jungle Book",
+        "title": "lorem ipsum dolor sit amet consf sfgsggd sgsdgsd.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://imgs.search.brave.com/OXeiBG5poAlHQ0hZ8JRa3-uQFDB2BQT0jQE5utJITJQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nZXR3/YWxscGFwZXJzLmNv/bS93YWxscGFwZXIv/ZnVsbC84L2EvZC8y/MTc1Ni5qcGc"
+    },{
+        "id": 4,
+        "name": "Nude Book",
+        "title": "lorem ipsum dolor sit amet consf sfgsggd sgsdgsd.",
+        "price": 110,
+        "category": "Nude",
+        "image": "https://imgs.search.brave.com/OXeiBG5poAlHQ0hZ8JRa3-uQFDB2BQT0jQE5utJITJQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nZXR3/YWxscGFwZXJzLmNv/bS93YWxscGFwZXIv/ZnVsbC84L2EvZC8y/MTc1Ni5qcGc"
+    },{
+        "id": 5,
+        "name": "Love Book",
+        "title": "lorem ipsum dolor sit amet consf sfgsggd sgsdgsd.",
+        "price": 0,
+        "category": "Cringe",
+        "image": "https://imgs.search.brave.com/OXeiBG5poAlHQ0hZ8JRa3-uQFDB2BQT0jQE5utJITJQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nZXR3/YWxscGFwZXJzLmNv/bS93YWxscGFwZXIv/ZnVsbC84L2EvZC8y/MTc1Ni5qcGc"
+    },{
+        "id": 6,
+        "name": "Fight Book",
+        "title": "lorem ipsum dolor sit amet consf sfgsggd sgsdgsd.",
+        "price": 1110,
+        "category": "Fight",
+        "image": "https://imgs.search.brave.com/OXeiBG5poAlHQ0hZ8JRa3-uQFDB2BQT0jQE5utJITJQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nZXR3/YWxscGFwZXJzLmNv/bS93YWxscGFwZXIv/ZnVsbC84L2EvZC8y/MTc1Ni5qcGc"
+    },{
+        "id": 7,
+        "name": "Thriller Book",
+        "title": "lorem ipsum dolor sit amet consf sfgsggd sgsdgsd.",
+        "price": 0,
+        "category": "Horrer",
+        "image": "https://imgs.search.brave.com/OXeiBG5poAlHQ0hZ8JRa3-uQFDB2BQT0jQE5utJITJQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nZXR3/YWxscGFwZXJzLmNv/bS93YWxscGFwZXIv/ZnVsbC84L2EvZC8y/MTc1Ni5qcGc"
+    },{
+        "id": 8,
+        "name": "Nobody Book",
+        "title": "lorem ipsum dolor sit amet consf sfgsggd sgsdgsd.",
+        "price": 0,
+        "category": "Love",
+        "image": "https://imgs.search.brave.com/OXeiBG5poAlHQ0hZ8JRa3-uQFDB2BQT0jQE5utJITJQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nZXR3/YWxscGFwZXJzLmNv/bS93YWxscGFwZXIv/ZnVsbC84L2EvZC8y/MTc1Ni5qcGc"
+    },{
+        "id": 9,
+        "name": "Story Book",
+        "title": "lorem ipsum dolor sit amet consf sfgsggd sgsdgsd.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://imgs.search.brave.com/OXeiBG5poAlHQ0hZ8JRa3-uQFDB2BQT0jQE5utJITJQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nZXR3/YWxscGFwZXJzLmNv/bS93YWxscGFwZXIv/ZnVsbC84L2EvZC8y/MTc1Ni5qcGc"
+    },{
+        "id": 10,
+        "name": "Story Book",
+        "title": "lorem ipsum dolor sit amet consf sfgsggd sgsdgsd.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://imgs.search.brave.com/OXeiBG5poAlHQ0hZ8JRa3-uQFDB2BQT0jQE5utJITJQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nZXR3/YWxscGFwZXJzLmNv/bS93YWxscGFwZXIv/ZnVsbC84L2EvZC8y/MTc1Ni5qcGc"
+    }
+]
