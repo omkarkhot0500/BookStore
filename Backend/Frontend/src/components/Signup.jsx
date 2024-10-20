@@ -30,7 +30,12 @@ function Signup() {
           toast.success("Signup Successfully");
           navigate(from, { replace: true });
         }
+
+        
+        //  When data is stored in localStorage, it is saved as a string
+        //  So when we pass data to localStorage then you must first convert it to a string using JSON.stringify()
         localStorage.setItem("Users", JSON.stringify(res.data.user));
+
       })
       .catch((err) => {
         if (err.response) {

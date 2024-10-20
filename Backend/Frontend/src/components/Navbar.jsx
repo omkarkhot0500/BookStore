@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { useState } from "react";
 import Login from "./Login";
 import Logout from "./Logout";
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 import { useAuth } from "../context/AuthProvider";
 
 function Navbar() {
@@ -68,7 +68,7 @@ function Navbar() {
             : ""
         }`}
       >
-        <div className="navbar ">
+        <div className="navbar">
           <div className="navbar-start">
             <div className="dropdown">
               <div
@@ -98,7 +98,9 @@ function Navbar() {
                 {navItems}
               </ul>
             </div>
-            <a className=" text-2xl font-bold cursor-pointer">bookStore</a>
+            <Link className=" text-2xl font-bold cursor-pointer" to="/">
+              bookStore
+            </Link>
           </div>
           <div className="navbar-end space-x-3">
             <div className="navbar-center hidden lg:flex">

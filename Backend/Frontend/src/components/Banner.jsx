@@ -1,6 +1,14 @@
 import React from "react";
 import banner from "../../public/Banner.png";
+import { useNavigate } from "react-router-dom";
+
 function Banner() {
+  const navigate = useNavigate();
+
+  const handleClick = () => {
+    navigate("/contact");
+  };
+
   return (
     <>
       <div className=" max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10">
@@ -11,11 +19,13 @@ function Banner() {
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+              Discover a world of manga and anime-themed books at Anime Book
+              Store! We offer a wide range of titles, from classic series to the
+              latest releases. Whether you're a seasoned fan or a newcomer, find
+              your favorite volumes and exclusive editions here. Dive into
+              captivating stories and expand your anime collection today!
             </p>
-            <label className="input input-bordered flex items-center gap-2">
+            {/* <label className="input input-bordered flex items-center gap-2">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 16 16"
@@ -26,9 +36,13 @@ function Banner() {
                 <path d="M15 6.954 8.978 9.86a2.25 2.25 0 0 1-1.956 0L1 6.954V11.5A1.5 1.5 0 0 0 2.5 13h11a1.5 1.5 0 0 0 1.5-1.5V6.954Z" />
               </svg>
               <input type="text" className="grow" placeholder="Email" />
-            </label>
+                            Here                
+            </label> */}
           </div>
-          <button className="btn mt-6 btn-secondary">Get Started</button>
+          {/* <button className="btn mt-6 btn-secondary">Get Started</button> */}
+          <button className="btn mt-6 btn-secondary" onClick={handleClick}>
+            Get Started
+          </button>
         </div>
         <div className=" order-1 w-full mt-20 md:w-1/2">
           <img
