@@ -46,7 +46,13 @@ function Navbar() {
         <Link to="/course">Course</Link>
       </li>
       <li>
-        <Link to="/">About</Link>
+        <a
+          href="https://github.com/omkarkhot0500"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          About
+        </a>
       </li>
       <li>
         <Link to="/contact">Contact</Link>
